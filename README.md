@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Erwan! I am a Frontend Developer based on Indonesia. 👋
 
 <!--
 **ErwanHermawan/ErwanHermawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
